@@ -1,0 +1,10 @@
+Comando Git importantes
+
+Git init -> para criação de um repositório.
+Git add . -> para adicionar todos ao controle de versão
+git add "nome.txt" -> arquvio unico
+git commit -m "Mensagem inicial" -> pra poder comitar os arquivo depois de adicionado
+git diff -> mostra toda a documentação que foi adicionada ou deletada no arquivo
+git diff --staged -> para mostrar os arquivos alterados na area de transição
+git log -> mostra todas as linhas de códigos feitas desde o inicio do projeto.
+git checkout -- (nome arquivo_ -> para retornar a ultima modificação feita no arquivo do git.
